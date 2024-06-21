@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.body {
+  margin: 0px;
+}
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  margin: 0px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+  font-weight: bolder;
+  font-size: 32px;
+  height: 80%;
+  align-self: center;
+  align-items: center;
+  padding-top: 200px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #f0bb03;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 200;
+  color: #ffff;
+}
